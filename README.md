@@ -6,4 +6,4 @@
 [![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)]
 
 
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username={LawrenceLud}&theme=blue-green)]
+![Lawrence GitHub stats](https://github-readme-stats.vercel.app/api?username=LawrenceLud&show_icons=true&theme=transparent)
